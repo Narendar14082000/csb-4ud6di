@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://narendar14082000.github.io/csb-4ud6di/static/css/main.d2b891bf.chunk.css",
+    "main.js": "https://narendar14082000.github.io/csb-4ud6di/static/js/main.b88c37fa.chunk.js",
+    "main.js.map": "https://narendar14082000.github.io/csb-4ud6di/static/js/main.b88c37fa.chunk.js.map",
+    "runtime-main.js": "https://narendar14082000.github.io/csb-4ud6di/static/js/runtime-main.fbc1a670.js",
+    "runtime-main.js.map": "https://narendar14082000.github.io/csb-4ud6di/static/js/runtime-main.fbc1a670.js.map",
+    "static/css/2.bdab3b56.chunk.css": "https://narendar14082000.github.io/csb-4ud6di/static/css/2.bdab3b56.chunk.css",
+    "static/js/2.2effc06c.chunk.js": "https://narendar14082000.github.io/csb-4ud6di/static/js/2.2effc06c.chunk.js",
+    "static/js/2.2effc06c.chunk.js.map": "https://narendar14082000.github.io/csb-4ud6di/static/js/2.2effc06c.chunk.js.map",
+    "index.html": "https://narendar14082000.github.io/csb-4ud6di/index.html",
+    "static/css/2.bdab3b56.chunk.css.map": "https://narendar14082000.github.io/csb-4ud6di/static/css/2.bdab3b56.chunk.css.map",
+    "static/css/main.d2b891bf.chunk.css.map": "https://narendar14082000.github.io/csb-4ud6di/static/css/main.d2b891bf.chunk.css.map",
+    "static/js/2.2effc06c.chunk.js.LICENSE.txt": "https://narendar14082000.github.io/csb-4ud6di/static/js/2.2effc06c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "https://narendar14082000.github.io/csb-4ud6di/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbc1a670.js",
+    "static/css/2.bdab3b56.chunk.css",
+    "static/js/2.2effc06c.chunk.js",
+    "static/css/main.d2b891bf.chunk.css",
+    "static/js/main.b88c37fa.chunk.js"
+  ]
+}
